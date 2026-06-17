@@ -1,0 +1,16 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/corpus/
+chroma/
+chroma_db/
+*.db
+tmp_audio/
+debug_out.txt
+debug_ragas.py
+inspect_ragas.py
+mro.txt
+print_scores.py
+ragas_api.txt
+ragas_ver.txt
